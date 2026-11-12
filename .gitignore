@@ -1,0 +1,24 @@
+# Enunciado do curso (material do AVA, não vai pro repo)
+*AVA SENAI_SC.pdf
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor / SO
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Lock do Office (arquivo aberto no Word)
+~$*
