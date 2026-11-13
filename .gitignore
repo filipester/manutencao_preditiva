@@ -1,5 +1,7 @@
-# Enunciado do curso (material do AVA, não vai pro repo)
-*AVA SENAI_SC.pdf
+# Arquivos de Enunciado e Checagem
+Projeto Avaliativo - Módulo 1.pdf
+CHECKLIST.md
+HANDOFF.md
 
 # Ambientes virtuais
 .venv/
@@ -20,5 +22,5 @@ Thumbs.db
 desktop.ini
 .DS_Store
 
-# Lock do Office (arquivo aberto no Word)
-~$*
+# Lock do Libre Office
+.~lock.*#
