@@ -67,4 +67,4 @@ O dataset já está em `data/manutencao_preditiva.csv` e é lido por caminho rel
 
 ## Vídeo
 
-Apresentação do projeto: _link a adicionar_
+Apresentação do projeto: [Link do vídeo](https://drive.google.com/file/d/1Kl58adQ9kRjPkv9Ko6hICyjDx87V4lfa/view?usp=drive_link)
